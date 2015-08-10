@@ -1,0 +1,6 @@
+C:\Users\d4patep\documents\visual studio 2013\Projects\OrganizationManager\OrganizationManager\bin\OrganizationManager.dll.config
+C:\Users\d4patep\documents\visual studio 2013\Projects\OrganizationManager\OrganizationManager\bin\OrganizationManager.dll
+C:\Users\d4patep\documents\visual studio 2013\Projects\OrganizationManager\OrganizationManager\bin\OrganizationManager.pdb
+C:\Users\d4patep\documents\visual studio 2013\Projects\OrganizationManager\OrganizationManager\obj\Debug\OrganizationManager.csprojResolveAssemblyReference.cache
+C:\Users\d4patep\documents\visual studio 2013\Projects\OrganizationManager\OrganizationManager\obj\Debug\OrganizationManager.dll
+C:\Users\d4patep\documents\visual studio 2013\Projects\OrganizationManager\OrganizationManager\obj\Debug\OrganizationManager.pdb
